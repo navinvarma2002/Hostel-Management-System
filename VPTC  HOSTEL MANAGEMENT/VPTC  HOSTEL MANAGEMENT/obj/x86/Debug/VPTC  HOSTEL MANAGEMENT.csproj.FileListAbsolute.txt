@@ -1,0 +1,18 @@
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC  HOSTEL MANAGEMENT.exe
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC  HOSTEL MANAGEMENT.pdb
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\bin\Debug\VPTC  HOSTEL MANAGEMENT.exe
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\bin\Debug\VPTC  HOSTEL MANAGEMENT.pdb
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC  HOSTEL MANAGEMENT.csprojResolveAssemblyReference.cache
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form1.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form10.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form11.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form2.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form3.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form5.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form6.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form7.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form8.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form9.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Properties.Resources.resources
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC  HOSTEL MANAGEMENT.csproj.GenerateResource.Cache
+C:\Users\Nav In\OneDrive\Documents\Visual Studio 2010\Projects\VPTC  HOSTEL MANAGEMENT\VPTC  HOSTEL MANAGEMENT\obj\x86\Debug\VPTC__HOSTEL_MANAGEMENT.Form4.resources
